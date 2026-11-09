@@ -191,6 +191,3 @@ public int readChoice(Scanner scanner, String prompt){
         return -1;
     }
 }
-
-public void readEmptyCon
-
